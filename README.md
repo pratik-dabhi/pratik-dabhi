@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Pratik Dabhi, a software engineer with expertise in JavaScript, TypeScript, PHP, and frameworks like Laravel and Node.js. I specialize in building robust REST APIs, managing databases, and real-time communication. I'm passionate about solving complex problems and continuously expanding my skill set.
+I'm Pratik Dabhi, a software engineer with 2 years of experience specializing in JavaScript, TypeScript, PHP, and frameworks like React, Laravel, and Node.js. I have expertise in building robust REST APIs, managing databases, and implementing real-time communication. Additionally, I have experience working with OpenEMR and integrating Oracle NetSuite. I’m passionate about solving complex problems and continuously expanding my skill set.
 
 
 ## 🌐 Socials:
